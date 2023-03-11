@@ -1,0 +1,22 @@
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\Compulsory DBD.exe
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\Compulsory DBD.deps.json
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\Compulsory DBD.runtimeconfig.json
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\Compulsory DBD.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\Compulsory DBD.pdb
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.csproj.AssemblyReference.cache
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.AssemblyInfoInputs.cache
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.AssemblyInfo.cs
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.csproj.CoreCompileInputs.cache
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\refint\Compulsory DBD.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.pdb
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.genruntimeconfig.cache
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\ref\Compulsory DBD.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\work\pbsw\DBD\Compulsory DBD\Compulsory DBD\obj\Debug\net6.0\Compulsory DBD.csproj.CopyComplete
